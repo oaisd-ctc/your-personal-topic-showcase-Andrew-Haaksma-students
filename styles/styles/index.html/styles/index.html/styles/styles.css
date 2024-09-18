@@ -1,4 +1,8 @@
 body{
+    background-color:rgb(41, 87, 130);
+    text:40px;
+}
+div{
     background-color:rgb(40, 75, 107);
     font-size:20px;
 } 
@@ -7,4 +11,16 @@ text:20px;
 }
 img{
     max-width:100px;
+}
+header{
+    text:40px;
+}
+footer{
+    background-color: rgb(51, 110, 110);;}
+aside {
+    width: 30%;
+    padding-left: 100px;
+    margin-left: 1300px;
+    background-color: rgb(51, 110, 110);
+    float:right;
 }
